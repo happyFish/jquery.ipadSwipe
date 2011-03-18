@@ -1,0 +1,21 @@
+A Jquery Plugin to handle IPad/iPhone swipes (and emulate in a browser) 
+
+usage: $('#slides').ipad();
+
+html structure:
+<div id="slides">
+  <span id="slide1" class="slide">
+	slide1
+  </span>
+  <span id="slide2" class="slide">
+	slide2
+  </span>
+  <span id="slide3" class="slide">
+        slide3
+  </span>
+  <span id="slide4" class="slide">
+        slide4
+  </span>
+</div>
+
+
